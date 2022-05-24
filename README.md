@@ -25,8 +25,8 @@ No activity tracked
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tony2015116&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/tony2015116/blogdown">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&repo=blogdown" />
 </a>
 <a href="https://github.com/tony2015116/r_note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&repo=blogdown" />
 </a>
