@@ -28,5 +28,5 @@ No activity tracked
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&repo=blogdown" />
 </a>
 <a href="https://github.com/tony2015116/r_note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&repo=blogdown" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&repo=r_note" />
 </a>
