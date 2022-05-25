@@ -8,8 +8,6 @@
   <a href="https://twitter.com/tonyituite">Twitter</a>
 </p>
 
-------------------------------------------------------------------------
-
 -   :telescope: I'm currently working at **广西扬翔股份**
 
 -   :wrench: I use daily: 
@@ -32,6 +30,11 @@
 
 -   :zap: Fun fact: ...
 
+## :fire: My projects:
+
+-   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
+-   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
+
 :bar_chart: **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
@@ -42,13 +45,10 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## :fire: My projects:
-
--   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
--   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tony2015116&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/tony2015116/blogdown"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=blogdown" align="center"/> </a> <a href="https://github.com/tony2015116/r_note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=r_note" align="center"/> </a>
+<a href="https://github.com/tony2015116/blogdown"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=blogdown" align="center"/> </a> 
+<a href="https://github.com/tony2015116/r_note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=r_note" align="center"/> </a>
