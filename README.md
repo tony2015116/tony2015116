@@ -3,9 +3,12 @@
   <a href="https://www.rusersplace.com">Blog</a> •
   <a href="https://twitter.com/tonyituite">Twitter</a>
 </p>
+
 <p align="right">
   <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
+  <a href="https://wakatime.com/@2fe5a876-877d-46b3-9074-e9e238d8e7bf"><img src="https://wakatime.com/badge/user/2fe5a876-877d-46b3-9074-e9e238d8e7bf.svg" alt="Total time coded since May 24 2022" /></a>
 </p>
+
 -   :telescope: I'm currently working at **广西扬翔股份**
 
 -   :wrench: I use daily: 
