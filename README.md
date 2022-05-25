@@ -31,7 +31,7 @@
 
 -   :zap: Fun fact: ...
 
-## :fire: My projects:
+:fire: **My projects:**
 
 -   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
 -   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
@@ -39,11 +39,6 @@
 :bar_chart: **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 
