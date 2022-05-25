@@ -5,6 +5,7 @@
 </p>
 
 <p align="right">
+  <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
   <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
   <a href="https://wakatime.com/@2fe5a876-877d-46b3-9074-e9e238d8e7bf"><img src="https://wakatime.com/badge/user/2fe5a876-877d-46b3-9074-e9e238d8e7bf.svg" alt="Total time coded since May 24 2022" /></a>
 </p>
