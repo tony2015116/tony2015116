@@ -1,7 +1,9 @@
-<h2 align="center">👋 Hello! I'm Tony.</h2> 
+<h2 align="center">👋 Hello! I'm Tony.</h2>
+
 <p align="center">
   <a href="https://www.rusersplace.com">Blog</a> •
-  <a href="https://twitter.com/tonyituite">Twitter</a>
+  <a href="https://twitter.com/tonyituite">Twitter</a> •
+  <a href="https://www.zhihu.com/people/guo-meng-68-41">知乎</a>
 </p>
 
 <p align="center">
@@ -12,11 +14,9 @@
 
 -   :telescope: I'm currently working at **广西扬翔股份**
 
--   :wrench: I use daily: 
-![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3)
+-   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3)
 
--   :seedling: I'm currently learning: 
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python&labelColor=5c5c5c&color=1182c3)
+-   :seedling: I'm currently learning: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python&labelColor=5c5c5c&color=1182c3)
 
 -   :art: My working platform based on: ![R](https://img.shields.io/badge/-R-blasck?style=plastic&logo=R&labelColor=5c5c5c&color=1182c3) ![Linux](https://img.shields.io/badge/-Linux-blasck?style=plastic&logo=Linux&labelColor=5c5c5c&color=1182c3) ![Anaconda](https://img.shields.io/badge/-Anaconda-blasck?style=plastic&logo=Anaconda&labelColor=5c5c5c&color=1182c3) ![Windows](https://img.shields.io/badge/-Windows-blasck?style=plastic&logo=Windows&labelColor=5c5c5c&color=1182c3)
 
@@ -29,8 +29,11 @@
 -   :speech_balloon: Ask me about ...
 
 -   :smile: Pronouns: ...
-
 -   :zap: Fun fact: ...
+
+> 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 
+<a href="https://github.com/tony2015116/blogdown/tree/main/themes/hugo-theme-jane/static/image/wechat-qr-code.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> 👈
+
 
 :fire: **My projects:**
 
@@ -41,16 +44,16 @@
 
 <!--START_SECTION:waka-->
 
-```text
+``` text
 No activity tracked
 ```
 
 <!--END_SECTION:waka-->
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tony2015116&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/tony2015116/blogdown"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=blogdown" align="center"/> </a> 
-<a href="https://github.com/tony2015116/r_note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=r_note" align="center"/> </a>
+<a href="https://github.com/tony2015116/blogdown"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=blogdown" align="center"/> </a> <a href="https://github.com/tony2015116/r_note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=r_note" align="center"/> </a>
+
+<img src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&amp;logoColor=white" alt="wechat"/></a>
