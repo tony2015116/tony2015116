@@ -2,8 +2,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116&left_color=green&right_color=red)
 
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=pudongping.pudongping" alt="visitors">
+<p align="right">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
 </p>
 
 Here are some ideas to get you started:
