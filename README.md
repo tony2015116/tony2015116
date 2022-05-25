@@ -1,12 +1,8 @@
 <h2 align="center">👋 Hello! I'm Tony.</h2>
 <p align="center">
   <a href="https://www.rusersplace.com">Blog</a> •
-  <a href="https://twitter.com/tonyituite">Twitter</a> •
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
+  <a href="https://twitter.com/tonyituite">Twitter</a>
 </p>
-
-
-### Hi there :wave:
 
 <p align="right">
     <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
