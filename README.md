@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116&left_color=green&right_color=red)
 
 <p align="right">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors" left_color = "green">
 </p>
 
 Here are some ideas to get you started:
