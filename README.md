@@ -1,12 +1,10 @@
 ### Hi there :wave:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116&left_color=green&right_color=red)
-
 <p align="right">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors" left_color = "green">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
 </p>
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------
 
 -   :telescope: I'm currently working at **广西扬翔股份**
 
@@ -41,6 +39,7 @@ No activity tracked
 ## :fire: My projects:
 
 -   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
+-   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
 
