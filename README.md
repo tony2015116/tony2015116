@@ -1,11 +1,8 @@
-<p align="right">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
-</p>
-
 <h2 align="center">👋 Hello! I'm Tony.</h2> 
 <p align="center">
   <a href="https://www.rusersplace.com">Blog</a> •
   <a href="https://twitter.com/tonyituite">Twitter</a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
 </p>
 
 -   :telescope: I'm currently working at **广西扬翔股份**
