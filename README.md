@@ -2,6 +2,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116&left_color=green&right_color=red)
 
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=pudongping.pudongping" alt="visitors">
+</p>
+
 Here are some ideas to get you started:
 
 -   :telescope: I'm currently working at **广西扬翔股份**
@@ -19,8 +23,6 @@ Here are some ideas to get you started:
 -   :thinking: I'm looking for help with ...
 
 -   :speech_balloon: Ask me about ...
-
--   :mailbox: How to reach me: ...
 
 -   :smile: Pronouns: ...
 
