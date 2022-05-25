@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -   :art: My working platform based on: ![R](https://img.shields.io/badge/-R-blasck?style=plastic&logo=R&labelColor=5c5c5c&color=1182c3) ![Linux](https://img.shields.io/badge/-Linux-blasck?style=plastic&logo=Linux&labelColor=5c5c5c&color=1182c3) ![Anaconda](https://img.shields.io/badge/-Anaconda-blasck?style=plastic&logo=Anaconda&labelColor=5c5c5c&color=1182c3) ![Windows](https://img.shields.io/badge/-Windows-blasck?style=plastic&logo=Windows&labelColor=5c5c5c&color=1182c3)
 
--   :mailbox: How to reach me: :envelope: [Email](tony2015116@163.com)
+-   :mailbox: How to reach me: :envelope: [Email](mailto:tony2015116@163.com)
 
 -   :dancers: I'm looking to collaborate on ...
 
