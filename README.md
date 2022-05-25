@@ -32,7 +32,7 @@
 -   :zap: Fun fact: ...
 
 > 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 
-<a href="https://github.com/tony2015116/blogdown/tree/main/themes/hugo-theme-jane/static/image/wechat-qr-code.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> 👈
+<a href="https://rusersplace.com/image/wechat-qr-code.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> 👈
 
 
 :fire: **My projects:**
@@ -56,4 +56,3 @@ No activity tracked
 
 <a href="https://github.com/tony2015116/blogdown"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=blogdown" align="center"/> </a> <a href="https://github.com/tony2015116/r_note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=r_note" align="center"/> </a>
 
-<img src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&amp;logoColor=white" alt="wechat"/></a>
