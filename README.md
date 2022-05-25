@@ -2,11 +2,10 @@
 <p align="center">
   <a href="https://www.rusersplace.com">Blog</a> •
   <a href="https://twitter.com/tonyituite">Twitter</a>
-  <p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
-  </p>
 </p>
-
+<p align="right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
+</p>
 -   :telescope: I'm currently working at **广西扬翔股份**
 
 -   :wrench: I use daily: 
