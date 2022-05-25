@@ -1,5 +1,7 @@
 ### Hi there :wave:
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116&left_color=green&right_color=red)
+
 Here are some ideas to get you started:
 
 -   :telescope: I'm currently working at **广西扬翔股份**
@@ -34,9 +36,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 🔥 My projects:
+## :fire: My projects:
 
-- [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
+-   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
 
