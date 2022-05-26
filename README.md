@@ -45,7 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 1 hr 6 mins
+
+Python                     ███████████▓░░░░░░░░░░░░░   46.11 %
+R                          ████████▓░░░░░░░░░░░░░░░░   34.56 %
+Markdown                   ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
+HTML                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
