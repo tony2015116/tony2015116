@@ -55,9 +55,7 @@ R                          ████████▓░░░░░░░░�
 Markdown                   ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
 HTML                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 JSON                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
->>>>>>> 3ba34e4fed9245b6da479d42ef41cbf2bb48bb69
+```>>>>>>> 3ba34e4fed9245b6da479d42ef41cbf2bb48bb69
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
