@@ -14,7 +14,8 @@
 
 -   :telescope: I'm currently working at **广西扬翔股份**
 
--   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=plastic&logo=Visual%20Studio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3)
+-   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=plastic&logo=Visual%20Studio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3)
 
 -   :seedling: I'm currently learning: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python&labelColor=5c5c5c&color=1182c3)
 
