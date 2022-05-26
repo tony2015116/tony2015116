@@ -45,6 +45,16 @@ I'm working in a data analysis position in a breeding company:pig2:. I usually u
 
 <!--START_SECTION:waka-->
 
+```text
+Total Time: 1 hr 6 mins
+
+Python                     ███████████▓░░░░░░░░░░░░░   46.11 %
+R                          ████████▓░░░░░░░░░░░░░░░░   34.56 %
+Markdown                   ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
+HTML                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact&hide=javascript,html,SCSS,CSS)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
