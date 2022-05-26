@@ -12,10 +12,11 @@
   <a href="https://wakatime.com/@2fe5a876-877d-46b3-9074-e9e238d8e7bf"><img src="https://wakatime.com/badge/user/2fe5a876-877d-46b3-9074-e9e238d8e7bf.svg" alt="Total time coded since May 24 2022" /></a>
 </p>
 
+I'm working in a data analysis position in a breeding company:pig2:. I usually use R language to process and analyze data for six years. In animal breeding data analise, I can use DMU&Asreml-R&Hiblup to genomic evaluation. I'm also familiar with Genomic Selection, GWAS, and bioinformatics.
+
 -   :telescope: I'm currently working at **广西扬翔股份**
 
--   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=plastic&logo=Visual%20Studio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3)
+-   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=plastic&logo=Visual%20Studio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3)
 
 -   :seedling: I'm currently learning: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python&labelColor=5c5c5c&color=1182c3)
 
@@ -43,6 +44,7 @@
 :bar_chart: **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
