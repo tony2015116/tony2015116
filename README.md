@@ -43,11 +43,6 @@
 :bar_chart: **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
