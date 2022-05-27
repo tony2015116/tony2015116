@@ -11,6 +11,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
   <a href="https://wakatime.com/@2fe5a876-877d-46b3-9074-e9e238d8e7bf"><img src="https://wakatime.com/badge/user/2fe5a876-877d-46b3-9074-e9e238d8e7bf.svg" alt="Total time coded since May 24 2022" /></a>
 </p>
+![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
 
 I'm working in a data analysis position in a breeding company:pig2:. I usually use R language to process and analyze data for six years. In animal breeding data analise, I can use DMU&Asreml-R&Hiblup to genomic evaluation. I'm also familiar with Genomic Selection, GWAS, and bioinformatics.
 
