@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Tony.</h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Tony.</h2>
 
 <p align="center">
   <a href="https://www.rusersplace.com">Blog</a> •
