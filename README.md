@@ -47,13 +47,12 @@ I'm working in a data analysis position in a breeding company:pig2:. I usually u
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 26 May 2022
+From: 27 April 2022 - To: 27 May 2022
 
-Python     30 mins         ███████████▓░░░░░░░░░░░░░   46.11 %
-R          23 mins         ████████▓░░░░░░░░░░░░░░░░   34.56 %
-Markdown   12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   57 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
+Python     48 mins         ████████▓░░░░░░░░░░░░░░░░   34.94 %
+R          23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+Other      7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 ```
 
 <!--END_SECTION:waka-->
