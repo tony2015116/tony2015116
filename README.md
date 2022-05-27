@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
   <img src="https://visitor-badge.glitch.me/badge?page_id=tony2015116.tony2015116" alt="visitors">
   <a href="https://wakatime.com/@2fe5a876-877d-46b3-9074-e9e238d8e7bf"><img src="https://wakatime.com/badge/user/2fe5a876-877d-46b3-9074-e9e238d8e7bf.svg" alt="Total time coded since May 24 2022" /></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/tony2015116/tony2015116" alt="GitHub last commit"/></a>
 </p>
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
 
 I'm working in a data analysis position in a breeding company:pig2:. I usually use R language to process and analyze data for six years. In animal breeding data analise, I can use DMU&Asreml-R&Hiblup to genomic evaluation. I'm also familiar with Genomic Selection, GWAS, and bioinformatics.
 
@@ -58,7 +58,7 @@ JSON                       ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact&hide=javascript,SCSS,CSS)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact&hide=javascript,SCSS,CSS,html,SCSS,CSS,TeX,JSON,XSLT)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tony2015116&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
