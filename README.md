@@ -15,9 +15,9 @@
 
 I'm working in a data analysis position in a breeding company:pig2:. I usually use R language to process and analyze data for six years. In animal breeding data analise, I can use DMU&Asreml-R&Hiblup to genomic evaluation. I'm also familiar with Genomic Selection, GWAS, and bioinformatics.
 
--   :telescope: I'm currently working at **广西..股份**
+-   :telescope: I'm currently working at **GuangXi YangXiang**
 
--   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=plastic&logo=Visual%20Studio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3)![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-black?style=plastic&logo=GitHub%20Pages&labelColor=5c5c5c&color=1182c3) 
+-   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=plastic&logo=Visual%20Studio%20Code&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3) ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-black?style=plastic&logo=GitHub%20Pages&labelColor=5c5c5c&color=1182c3) 
 
 -   :seedling: I'm currently learning: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python&labelColor=5c5c5c&color=1182c3)
 
@@ -25,15 +25,17 @@ I'm working in a data analysis position in a breeding company:pig2:. I usually u
 
 -   :mailbox: How to reach me: :envelope: [Email](mailto:tony2015116@163.com)
 
+<!-- #整段整段的不可见内容
 -   :dancers: I'm looking to collaborate on ...
 
 -   :thinking: I'm looking for help with ...
 
--   :speech_balloon: Ask me about ...
+-   :speech_balloon: Ask me about 
+-->
 
--   :smile: Pronouns: ...
+-   :smile: Pronouns: Share what I know about data science with my blog
 
--   :zap: Fun fact: ...
+-   :zap: Fun fact: :iphone::camera:mobile photography
 
 > :sparkling_heart: If you like what I do, maybe consider buying me a coffee/tea :pleading_face: :point_right: <a href="https://rusersplace.com/image/wechat-qr-code.jpg" target="_blank"><img src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&amp;logoColor=white" alt="wechat"/></a> :point_left:
 
