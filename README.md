@@ -37,12 +37,13 @@ I'm working in a data analysis position in a breeding company:pig2:. I usually u
 
 -   :zap: Fun fact: :iphone::camera:mobile photography
 
-> :sparkling_heart: If you like what I do, maybe consider buying me a coffee/tea :pleading_face: :point_right: <a href="https://rusersplace.com/image/wechat-qr-code.jpg" target="_blank"><img src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&amp;logoColor=white" alt="wechat"/></a> :point_left:
-
 :fire: **My projects:**
 
 -   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
 -   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
+
+> :sparkling_heart: If you like what I do, maybe consider buying me a coffee/tea :pleading_face: :point_right: <a href="https://rusersplace.com/image/wechat-qr-code.jpg" target="_blank"><img src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&amp;logoColor=white" alt="wechat"/></a> :point_left:
+
 
 :bar_chart: **This Week I Spent My Time On:**
 
