@@ -64,4 +64,6 @@ Other      7 mins          █▒░░░░░░░░░░░░░░░�
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tony2015116&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <a href="https://github.com/tony2015116/blogdown"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=blogdown" align="center"/> </a> <a href="https://github.com/tony2015116/r_note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=r_note" align="center"/> </a>
+--->
