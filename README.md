@@ -50,7 +50,7 @@ I'm working in a data analysis position in a breeding company:pig2:. I usually u
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 27 May 2022
+From: 28 April 2022 - To: 28 May 2022
 
 Markdown   57 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
 Python     48 mins         ████████▓░░░░░░░░░░░░░░░░   34.94 %
