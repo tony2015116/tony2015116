@@ -13,7 +13,7 @@
   <a href="#"><img src="https://img.shields.io/github/last-commit/tony2015116/tony2015116" alt="GitHub last commit"/></a>
 </p>
 
-I'm working in a data analysis position in a breeding company:pig2:. I usually use R language to process and analyze data for six years. In animal breeding data analise, I can use DMU&Asreml-R&Hiblup to genomic evaluation. I'm also familiar with Genomic Selection, GWAS, and bioinformatics.
+I used R language for six years. I can make R packages, program and data analysis.
 
 -   :telescope: I'm currently working at **GuangXi YangXiang**
 
