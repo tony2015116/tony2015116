@@ -50,7 +50,7 @@ I used R language for six years. I can make R packages, program and data analysi
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2022 - To: 31 May 2022
+From: 02 May 2022 - To: 01 June 2022
 
 Markdown   57 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
 Python     48 mins         ████████▓░░░░░░░░░░░░░░░░   34.94 %
