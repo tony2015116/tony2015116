@@ -1,20 +1,44 @@
+#基础版本
+#name: Waka Readme
+#on:
+#  workflow_dispatch:
+#  schedule:
+#    # Runs at every 2 hours
+#    - cron: "0 */2 * * *"
+#jobs:
+#  update-readme:
+#    name: Update this repo's README
+#    runs-on: ubuntu-latest
+#     steps:
+#     - uses: athul/waka-readme@master
+#      with:
+#         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#         TIME_RANGE: last_30_days
+#         SHOW_TIME: true
+#         SHOW_TOTAL: false
+#         SHOW_TITLE: true
+
+
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at every 2 hours
-    - cron: "0 */2 * * *"
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_30_days
-          SHOW_TIME: true
-          SHOW_TOTAL: false
-          SHOW_TITLE: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LANGUAGE: "False"
+          
+          
+          
+          
+          
+          
