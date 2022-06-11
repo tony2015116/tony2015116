@@ -42,9 +42,9 @@ I used R language for six years. I can make R packages, program and data analysi
 -   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
 -   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
 
-> :sparkling_heart: If you like what I do, maybe consider buying me a coffee/tea :pleading_face: :point_right: <a href="https://rusersplace.com/image/wechat-qr-code.jpg" target="_blank"><img src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&amp;logoColor=white" alt="wechat"/></a> :point_left:
+> :sparkling_heart: 您的支持，是我的动力 :pleading_face: :point_right::point_left: <a href="https://rusersplace.com/image/wechat-qr-code.jpg" target="_blank"><img src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&amp;logoColor=white" alt="wechat"/></a>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+> :sparkling_heart: if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/tony201511p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 :bar_chart: **This Week I Spent My Time On:**
