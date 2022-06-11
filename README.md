@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Tony.</h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm guoguo.</h2>
 
 <p align="center">
   <a href="https://www.rusersplace.com">Blog</a> •
@@ -50,16 +50,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 :bar_chart: **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```text
-From: 06 May 2022 - To: 05 June 2022
-
-Markdown   57 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
-Python     48 mins         ████████▓░░░░░░░░░░░░░░░░   34.94 %
-R          23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Other      7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-```
-
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact&hide=javascript,SCSS,CSS,html,SCSS,CSS,TeX,JSON,XSLT)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
