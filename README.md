@@ -50,6 +50,12 @@ I used R language for six years. I can make R packages, program and data analysi
 :bar_chart: **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   54 mins         ███████████████████████▒░   93.61 %
+Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact&hide=javascript,SCSS,CSS,html,SCSS,CSS,TeX,JSON,XSLT)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
