@@ -16,11 +16,11 @@ I'm working in a data analysis position in a breeding company:pig2:. I usually u
 
 -   :telescope: I'm currently working at **广西..股份**
 
--   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=plastic&logo=Rstudio&labelColor=5c5c5c&color=1182c3) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=plastic&logo=Visual%20Studio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=plastic&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=plastic&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=plastic&logo=GitHub&labelColor=5c5c5c&color=1182c3)
+-   :wrench: I use daily: ![Rstudio](https://img.shields.io/badge/-Rstudio-black?style=flat&logo=Rstudio&labelColor=5c5c5c&color=1182c3) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=Visual%20Studio&labelColor=5c5c5c&color=1182c3) ![Jupyter](https://img.shields.io/badge/-Jupyter-blasck?style=flat&logo=Jupyter&labelColor=5c5c5c&color=1182c3) ![Markdown](https://img.shields.io/badge/-Markdown-blasck?style=flat&logo=Markdown&labelColor=5c5c5c&color=1182c3) ![git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&labelColor=5c5c5c&color=1182c3) ![GitHub](https://img.shields.io/badge/-GitHub-blasck?style=flat&logo=GitHub&labelColor=5c5c5c&color=1182c3)
 
--   :seedling: I'm currently learning: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python&labelColor=5c5c5c&color=1182c3)
+-   :seedling: I'm currently learning: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python&labelColor=5c5c5c&color=1182c3)
 
--   :art: My working platform based on: ![R](https://img.shields.io/badge/-R-blasck?style=plastic&logo=R&labelColor=5c5c5c&color=1182c3) ![Linux](https://img.shields.io/badge/-Linux-blasck?style=plastic&logo=Linux&labelColor=5c5c5c&color=1182c3) ![Anaconda](https://img.shields.io/badge/-Anaconda-blasck?style=plastic&logo=Anaconda&labelColor=5c5c5c&color=1182c3) ![Windows](https://img.shields.io/badge/-Windows-blasck?style=plastic&logo=Windows&labelColor=5c5c5c&color=1182c3)
+-   :art: My working platform based on: ![R](https://img.shields.io/badge/-R-blasck?style=flat&logo=R&labelColor=5c5c5c&color=1182c3) ![Linux](https://img.shields.io/badge/-Linux-blasck?style=flat&logo=Linux&labelColor=5c5c5c&color=1182c3) ![Anaconda](https://img.shields.io/badge/-Anaconda-blasck?style=flat&logo=Anaconda&labelColor=5c5c5c&color=1182c3) ![Windows](https://img.shields.io/badge/-Windows-blasck?style=flat&logo=Windows&labelColor=5c5c5c&color=1182c3)
 
 -   :mailbox: How to reach me: :envelope: [Email](mailto:tony2015116@163.com)
 
