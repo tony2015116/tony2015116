@@ -47,7 +47,7 @@ I used R language for six years. I can make R packages, program and data analysi
 > :sparkling_heart: if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/tony201511p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-> <a href="https://dun.mianbaoduo.com/@guoguo" target="_blank"><img src="https://img.niucodata.com/dundunfan-bt.png" width="290"></a>
+> <a href="https://dun.mianbaoduo.com/@guoguo" target="_blank"><img src="https://img.niucodata.com/dundunfan-bt.png" width="300"></a>
 
 :bar_chart: **This Week I Spent My Time On:**
 
