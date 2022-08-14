@@ -56,7 +56,7 @@ I used R language for six years. I can make R packages, program and data analysi
 ```text
 INI      37 mins         ██████████████████████░░░   87.61 %
 Python   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
