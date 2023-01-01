@@ -54,8 +54,7 @@ I used R language for six years. I can make R packages, program and data analysi
 <!--START_SECTION:waka-->
 
 ```text
-Python   15 mins         █████████████▒░░░░░░░░░░░   52.92 %
-Other    13 mins         ███████████▓░░░░░░░░░░░░░   47.08 %
+Other    1 min           ████████████████░░░░░░░░░   63.42 %
 ```
 
 <!--END_SECTION:waka-->
