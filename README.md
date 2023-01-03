@@ -54,7 +54,7 @@ I used R language for six years. I can make R packages, program and data analysi
 <!--START_SECTION:waka-->
 
 ```text
-Other    1 min           ████████████████░░░░░░░░░   63.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
