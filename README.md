@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftony2015116"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftony2015116&labelColor=%232ccce4&countColor=%2337d67a&style=flat" /></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftony2015116"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftony2015116&countColor=%23f47373&style=flat" /></a>
   <a href="https://wakatime.com/@2fe5a876-877d-46b3-9074-e9e238d8e7bf"><img src="https://wakatime.com/badge/user/2fe5a876-877d-46b3-9074-e9e238d8e7bf.svg" alt="Total time coded since May 24 2022" /></a>
   <a href="#"><img src="https://img.shields.io/github/last-commit/tony2015116/tony2015116" alt="GitHub last commit"/></a>
 </p>
