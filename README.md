@@ -65,21 +65,11 @@ I used R language for seven years. I can use R programming and data analysis.
 
 <<<<<<< HEAD
 -->
-=======
-:bar_chart: **This Week I Spent My Time On:**
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
->>>>>>> fd78438e52779b0004b4e3a20265a56537b53d98
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&layout=compact&hide=javascript,SCSS,CSS,html,SCSS,CSS,TeX,JSON,XSLT)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tony2015116&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tony2015116&show_icons=true&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <a href="https://github.com/tony2015116/blogdown"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=blogdown" align="center"/> </a> <a href="https://github.com/tony2015116/r_note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tony2015116&amp;repo=r_note" align="center"/> </a>
