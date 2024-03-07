@@ -1,0 +1,6 @@
+![OpenAI](https://img.shields.io/badge/-OpenAI-blue?logo=openai&logoColor=green)
+![OpenAI](https://img.shields.io/badge/-OpenAI-blue?logo=openai&logoColor=green&labelColor=5c5c5c&color=1182c3)
+![Excel](https://img.shields.io/badge/-Excel-blue?logo=microsoftexcel&logoColor=green&labelColor=5c5c5c&color=1182c3)
+![Linux](https://img.shields.io/badge/-Linux-blue?logo=Linux&labelColor=5c5c5c&color=1182c3)
+![GitHub](https://img.shields.io/badge/-GitHub-blue?logo=GitHub&labelColor=5c5c5c&color=1182c3)
+![R](https://img.shields.io/badge/-R-blue?&logo=R&logoColor=blue&labelColor=5c5c5c&color=1182c3)
