@@ -30,11 +30,14 @@ I used R language for seven years. I can use R programming and data analysis.
 
 -   :zap: Fun fact: :iphone::camera:mobile photography
 
-:fire: **My projects:**
+:fire: My personal projects:
 -   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
 -   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
--   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
--   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
+-   [wdauto](https://tony2015116.github.io/wdauto/) - 辅助下载chromedriver和selenium standalone,辅助selenium webdriver service
+
+:fire: My work projects:
+-   [pptsdd](https://tony2015116.github.io/pptsdd/) - 爬取睿保乐nedap测定站csv数据
+-   [pptsda](https://tony2015116.github.io/pptsda/) - 瑞保乐nedap测定站数据分析
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&hide_progress=true&layout=compact&hide=javascript,SCSS,CSS,html,SCSS,CSS,TeX,JSON,XSLT)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
