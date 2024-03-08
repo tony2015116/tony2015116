@@ -33,7 +33,7 @@ I used R language for seven years. I can use R programming and data analysis.
 :fire: My personal projects:
 -   [my-blog](https://github.com/tony2015116/blogdown) - 我正在使用的个人博客项目
 -   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我正在使用的个人GitHub主页
--   [wdauto](https://tony2015116.github.io/wdauto/) - 辅助下载chromedriver和selenium standalone,辅助selenium webdriver service
+-   [wdauto](https://tony2015116.github.io/wdauto/) - 下载chromedriver和selenium standalone,辅助selenium webdriver service
 
 :fire: My work projects:
 -   [pptsdd](https://tony2015116.github.io/pptsdd/) - 爬取睿保乐nedap测定站csv数据
