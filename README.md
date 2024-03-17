@@ -15,8 +15,6 @@
 
 I am a pig farmer born in the 90s who knows R and is currently learning Python. If you are interested in pig farming or R, feel free to contact me!
 
--   :telescope: I'm currently working at **YangXiang** Company in Guangxi.
-
 -   :wrench: The data analysis platform I often use: 
 ![R](https://img.shields.io/badge/-R-blue?&logo=R&logoColor=blue&labelColor=5c5c5c&color=1182c3)
 ![Excel](https://img.shields.io/badge/-Excel-blue?logo=microsoftexcel&logoColor=green&labelColor=5c5c5c&color=1182c3)
@@ -27,7 +25,7 @@ I am a pig farmer born in the 90s who knows R and is currently learning Python. 
 
 -   :seedling: I'm currently learning: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python&labelColor=5c5c5c&color=1182c3)
 
--   :mailbox: How to reach me: :envelope: [Email](mailto:tony2015116@163.com)
+-   :mailbox: How to reach me: :envelope: [Email](mailto:mguo2023331@gmail.com)
 
 -   :zap: Fun fact: :iphone::camera:mobile photography
 
