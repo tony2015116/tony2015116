@@ -29,7 +29,7 @@ I am a pig farmer born in the 90s who knows R. If you are interested in pig farm
 :fire: My personal projects:
 -   [my-github-profile](https://github.com/tony2015116/tony2015116) - 我的个人GitHub主页
 -   [wdauto](https://tony2015116.github.io/wdauto/) - 辅助使用Rselenium
--   [wdauto](https://tony2015116.github.io/mintyr/) - 以优雅的方式（tidy）进行基因组选择
+-   [mintyr](https://tony2015116.github.io/mintyr/) - 以优雅的方式（tidy）进行基因组选择
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony2015116&hide_progress=true&layout=compact&hide=javascript,SCSS,CSS,html,SCSS,CSS,TeX,JSON,XSLT)](https://github.com/anuraghazra/github-readme-stats) <!--&hide=javascript,html,SCSS,CSS-->
